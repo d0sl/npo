@@ -1,99 +1,248 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Universal</title>
+    <title>Biztrox</title>
     <link>https://d0sl.github.io/npo/</link>
-    <description>Recent content on Universal</description>
+    <description>Recent content on Biztrox</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Oct 2015 13:07:31 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 29 Sep 2018 14:43:10 +0600</lastBuildDate>
     
 	<atom:link href="https://d0sl.github.io/npo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Migrate from Jekyll</title>
-      <link>https://d0sl.github.io/npo/blog/2015/10/10/migrate-from-jekyll/</link>
-      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      <title>Alisha Mayar</title>
+      <link>https://d0sl.github.io/npo/team/alisha-mayar/</link>
+      <pubDate>Sat, 29 Sep 2018 14:43:10 +0600</pubDate>
       
-      <guid>https://d0sl.github.io/npo/blog/2015/10/10/migrate-from-jekyll/</guid>
-      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
-▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+      <guid>https://d0sl.github.io/npo/team/alisha-mayar/</guid>
+      <description>Work History &amp;amp; Feedback Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
-      <title>Linked post</title>
-      <link>https://d0sl.github.io/npo/blog/2015/10/02/linked-post/</link>
-      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
+      <title>Joseph Pullin</title>
+      <link>https://d0sl.github.io/npo/team/joseph-pullin/</link>
+      <pubDate>Sat, 29 Sep 2018 14:42:51 +0600</pubDate>
       
-      <guid>https://d0sl.github.io/npo/blog/2015/10/02/linked-post/</guid>
-      <description>I&amp;rsquo;m a linked post in the menu. You can add other posts by adding the following line to the frontmatter:
-menu = &amp;quot;main&amp;quot;  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus.</description>
+      <guid>https://d0sl.github.io/npo/team/joseph-pullin/</guid>
+      <description>Work History &amp;amp; Feedback Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
-      <title>Go is for lovers</title>
-      <link>https://d0sl.github.io/npo/blog/2015/09/17/go-is-for-lovers/</link>
-      <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
+      <title>Andrew Givson</title>
+      <link>https://d0sl.github.io/npo/team/andrew-givson/</link>
+      <pubDate>Sat, 29 Sep 2018 14:42:31 +0600</pubDate>
       
-      <guid>https://d0sl.github.io/npo/blog/2015/09/17/go-is-for-lovers/</guid>
-      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
-This document is a brief primer on using go templates.</description>
+      <guid>https://d0sl.github.io/npo/team/andrew-givson/</guid>
+      <description>Work History &amp;amp; Feedback Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
-      <title>Hugo is for lovers</title>
-      <link>https://d0sl.github.io/npo/blog/2015/08/03/hugo-is-for-lovers/</link>
-      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      <title>Steve Woah</title>
+      <link>https://d0sl.github.io/npo/team/steve-woah/</link>
+      <pubDate>Sat, 29 Sep 2018 14:42:07 +0600</pubDate>
       
-      <guid>https://d0sl.github.io/npo/blog/2015/08/03/hugo-is-for-lovers/</guid>
-      <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
-Save it somewhere specific as we will be using it in the next step.
-More complete instructions are available at installing hugo
-Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
-Follow the following steps:
- Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
+      <guid>https://d0sl.github.io/npo/team/steve-woah/</guid>
+      <description>Work History &amp;amp; Feedback Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
-      <title>Creating a new theme</title>
-      <link>https://d0sl.github.io/npo/blog/2015/06/24/creating-a-new-theme/</link>
-      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
+      <title>Alex Cagar</title>
+      <link>https://d0sl.github.io/npo/team/alex-cagar/</link>
+      <pubDate>Sat, 29 Sep 2018 14:41:38 +0600</pubDate>
       
-      <guid>https://d0sl.github.io/npo/blog/2015/06/24/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+      <guid>https://d0sl.github.io/npo/team/alex-cagar/</guid>
+      <description>Work History &amp;amp; Feedback Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
-      <title>Contact</title>
-      <link>https://d0sl.github.io/npo/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Phillip Wilson</title>
+      <link>https://d0sl.github.io/npo/team/phillip-wilson/</link>
+      <pubDate>Sat, 29 Sep 2018 12:58:30 +0600</pubDate>
       
-      <guid>https://d0sl.github.io/npo/contact/</guid>
-      <description>We are here to help you Are you curious about something? Do you have some kind of problem with our products? As am hastily invited settled at limited civilly fortune me. Really spring in extent an by. Judge but built gay party world. Of so am he remember although required. Bachelor unpacked be advanced at. Confined in declared marianne is vicinity.
-Please feel free to contact us, our customer service center is working for you 24&amp;frasl;7.</description>
+      <guid>https://d0sl.github.io/npo/team/phillip-wilson/</guid>
+      <description>Work History &amp;amp; Feedback Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
-      <title>FAQ</title>
-      <link>https://d0sl.github.io/npo/faq/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Market Strategy</title>
+      <link>https://d0sl.github.io/npo/service/market-strategy/</link>
+      <pubDate>Sat, 29 Sep 2018 11:54:02 +0600</pubDate>
       
-      <guid>https://d0sl.github.io/npo/faq/</guid>
-      <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
-1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER? Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</description>
+      <guid>https://d0sl.github.io/npo/service/market-strategy/</guid>
+      <description>Marketing Oriented To The Targated Customers Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
-      <title>Our Team</title>
-      <link>https://d0sl.github.io/npo/team/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Market Strategy</title>
+      <link>https://d0sl.github.io/npo/service/market-strategy1/</link>
+      <pubDate>Sat, 29 Sep 2018 11:54:02 +0600</pubDate>
       
-      <guid>https://d0sl.github.io/npo/team/</guid>
-      <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
-1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER? Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</description>
+      <guid>https://d0sl.github.io/npo/service/market-strategy1/</guid>
+      <description>Marketing Oriented To The Targated Customers Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Valuable Idea</title>
+      <link>https://d0sl.github.io/npo/service/valuable-idea/</link>
+      <pubDate>Sat, 29 Sep 2018 11:51:17 +0600</pubDate>
+      
+      <guid>https://d0sl.github.io/npo/service/valuable-idea/</guid>
+      <description>Marketing Oriented To The Targated Customers Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Valuable Idea</title>
+      <link>https://d0sl.github.io/npo/service/valuable-idea1/</link>
+      <pubDate>Sat, 29 Sep 2018 11:51:17 +0600</pubDate>
+      
+      <guid>https://d0sl.github.io/npo/service/valuable-idea1/</guid>
+      <description>Marketing Oriented To The Targated Customers Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Business Consulting</title>
+      <link>https://d0sl.github.io/npo/service/business-consulting/</link>
+      <pubDate>Tue, 25 Sep 2018 15:51:35 +0600</pubDate>
+      
+      <guid>https://d0sl.github.io/npo/service/business-consulting/</guid>
+      <description>Marketing Oriented To The Targated Customers Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Business Consulting</title>
+      <link>https://d0sl.github.io/npo/service/business-consulting1/</link>
+      <pubDate>Tue, 25 Sep 2018 15:51:35 +0600</pubDate>
+      
+      <guid>https://d0sl.github.io/npo/service/business-consulting1/</guid>
+      <description>Marketing Oriented To The Targated Customers Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Finance Consultancy</title>
+      <link>https://d0sl.github.io/npo/project/project1/</link>
+      <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
+      
+      <guid>https://d0sl.github.io/npo/project/project1/</guid>
+      <description>Apollo For Baximco Inc. Australia Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Finance Consultancy</title>
+      <link>https://d0sl.github.io/npo/project/project2/</link>
+      <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
+      
+      <guid>https://d0sl.github.io/npo/project/project2/</guid>
+      <description>Apollo For Baximco Inc. Australia Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Finance Consultancy</title>
+      <link>https://d0sl.github.io/npo/project/project3/</link>
+      <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
+      
+      <guid>https://d0sl.github.io/npo/project/project3/</guid>
+      <description>Apollo For Baximco Inc. Australia Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Finance Consultancy</title>
+      <link>https://d0sl.github.io/npo/project/project4/</link>
+      <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
+      
+      <guid>https://d0sl.github.io/npo/project/project4/</guid>
+      <description>Apollo For Baximco Inc. Australia Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Finance Consultancy</title>
+      <link>https://d0sl.github.io/npo/project/project5/</link>
+      <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
+      
+      <guid>https://d0sl.github.io/npo/project/project5/</guid>
+      <description>Apollo For Baximco Inc. Australia Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Finance Consultancy</title>
+      <link>https://d0sl.github.io/npo/project/project6/</link>
+      <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
+      
+      <guid>https://d0sl.github.io/npo/project/project6/</guid>
+      <description>Apollo For Baximco Inc. Australia Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Finance Consultancy</title>
+      <link>https://d0sl.github.io/npo/project/project7/</link>
+      <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
+      
+      <guid>https://d0sl.github.io/npo/project/project7/</guid>
+      <description>Apollo For Baximco Inc. Australia Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Finance Consultancy</title>
+      <link>https://d0sl.github.io/npo/project/project8/</link>
+      <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
+      
+      <guid>https://d0sl.github.io/npo/project/project8/</guid>
+      <description>Apollo For Baximco Inc. Australia Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Economics Meter</title>
+      <link>https://d0sl.github.io/npo/blog/economics-meter/</link>
+      <pubDate>Mon, 24 Sep 2018 11:11:24 +0600</pubDate>
+      
+      <guid>https://d0sl.github.io/npo/blog/economics-meter/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Money and Money</title>
+      <link>https://d0sl.github.io/npo/blog/money-and-money/</link>
+      <pubDate>Mon, 24 Sep 2018 11:10:46 +0600</pubDate>
+      
+      <guid>https://d0sl.github.io/npo/blog/money-and-money/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Finance My Business</title>
+      <link>https://d0sl.github.io/npo/blog/finance-my-business/</link>
+      <pubDate>Mon, 24 Sep 2018 11:10:07 +0600</pubDate>
+      
+      <guid>https://d0sl.github.io/npo/blog/finance-my-business/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Business Magnate</title>
+      <link>https://d0sl.github.io/npo/blog/business-magnate/</link>
+      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+      
+      <guid>https://d0sl.github.io/npo/blog/business-magnate/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Cool the Audits</title>
+      <link>https://d0sl.github.io/npo/blog/cool-the-audits/</link>
+      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+      
+      <guid>https://d0sl.github.io/npo/blog/cool-the-audits/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>New Hugo Post</title>
+      <link>https://d0sl.github.io/npo/blog/new-hugo-post/</link>
+      <pubDate>Sun, 23 Sep 2018 11:35:34 +0600</pubDate>
+      
+      <guid>https://d0sl.github.io/npo/blog/new-hugo-post/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
   </channel>
