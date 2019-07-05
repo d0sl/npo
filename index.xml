@@ -5,11 +5,38 @@
     <link>https://d0sl.github.io/npo/</link>
     <description>Recent content on Semant.org</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 29 Sep 2018 14:43:10 +0600</lastBuildDate>
+    <language>ru-RU</language>
+    <lastBuildDate>Fri, 05 Jul 2019 11:11:24 +0600</lastBuildDate>
     
 	<atom:link href="https://d0sl.github.io/npo/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>В разработке</title>
+      <link>https://d0sl.github.io/npo/blog/economics-meter/</link>
+      <pubDate>Fri, 05 Jul 2019 11:11:24 +0600</pubDate>
+      
+      <guid>https://d0sl.github.io/npo/blog/economics-meter/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>В разработке</title>
+      <link>https://d0sl.github.io/npo/blog/money-and-money/</link>
+      <pubDate>Fri, 05 Jul 2019 11:10:46 +0600</pubDate>
+      
+      <guid>https://d0sl.github.io/npo/blog/money-and-money/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>В разработке</title>
+      <link>https://d0sl.github.io/npo/blog/finance-my-business/</link>
+      <pubDate>Fri, 05 Jul 2019 11:10:07 +0600</pubDate>
+      
+      <guid>https://d0sl.github.io/npo/blog/finance-my-business/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
     
     <item>
       <title>Alisha Mayar</title>
@@ -66,30 +93,12 @@
     </item>
     
     <item>
-      <title>Market Strategy</title>
+      <title>ФИНТЕХ, ТЕЛЕКОМ</title>
       <link>https://d0sl.github.io/npo/service/market-strategy/</link>
       <pubDate>Sat, 29 Sep 2018 11:54:02 +0600</pubDate>
       
       <guid>https://d0sl.github.io/npo/service/market-strategy/</guid>
-      <description>Marketing Oriented To The Targated Customers Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Market Strategy</title>
-      <link>https://d0sl.github.io/npo/service/market-strategy1/</link>
-      <pubDate>Sat, 29 Sep 2018 11:54:02 +0600</pubDate>
-      
-      <guid>https://d0sl.github.io/npo/service/market-strategy1/</guid>
-      <description>Marketing Oriented To The Targated Customers Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Valuable Idea</title>
-      <link>https://d0sl.github.io/npo/service/valuable-idea/</link>
-      <pubDate>Sat, 29 Sep 2018 11:51:17 +0600</pubDate>
-      
-      <guid>https://d0sl.github.io/npo/service/valuable-idea/</guid>
-      <description>Marketing Oriented To The Targated Customers Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <description>Управление платежами, управление услугами, обработка фрода, маршрутизация, рекомендации, биржевой прогноз.</description>
     </item>
     
     <item>
@@ -99,6 +108,15 @@
       
       <guid>https://d0sl.github.io/npo/service/valuable-idea1/</guid>
       <description>Marketing Oriented To The Targated Customers Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>ИСКУССТВЕННЫЙ ИНТЕЛЛЕКТ</title>
+      <link>https://d0sl.github.io/npo/service/valuable-idea/</link>
+      <pubDate>Sat, 29 Sep 2018 11:51:17 +0600</pubDate>
+      
+      <guid>https://d0sl.github.io/npo/service/valuable-idea/</guid>
+      <description>Робототехника, аниматы, роевые задачи, автоматическая обработка текстов, умные контракты, рекомендательные системы, интернет вещей.</description>
     </item>
     
     <item>
@@ -117,42 +135,6 @@
       
       <guid>https://d0sl.github.io/npo/service/business-consulting1/</guid>
       <description>Marketing Oriented To The Targated Customers Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Finance Consultancy</title>
-      <link>https://d0sl.github.io/npo/project/project1/</link>
-      <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
-      
-      <guid>https://d0sl.github.io/npo/project/project1/</guid>
-      <description>Apollo For Baximco Inc. Australia Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Finance Consultancy</title>
-      <link>https://d0sl.github.io/npo/project/project2/</link>
-      <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
-      
-      <guid>https://d0sl.github.io/npo/project/project2/</guid>
-      <description>Apollo For Baximco Inc. Australia Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Finance Consultancy</title>
-      <link>https://d0sl.github.io/npo/project/project3/</link>
-      <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
-      
-      <guid>https://d0sl.github.io/npo/project/project3/</guid>
-      <description>Apollo For Baximco Inc. Australia Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Finance Consultancy</title>
-      <link>https://d0sl.github.io/npo/project/project4/</link>
-      <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
-      
-      <guid>https://d0sl.github.io/npo/project/project4/</guid>
-      <description>Apollo For Baximco Inc. Australia Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
@@ -192,30 +174,21 @@
     </item>
     
     <item>
-      <title>Economics Meter</title>
-      <link>https://d0sl.github.io/npo/blog/economics-meter/</link>
-      <pubDate>Mon, 24 Sep 2018 11:11:24 +0600</pubDate>
+      <title>Автоматизация запуска турбин</title>
+      <link>https://d0sl.github.io/npo/project/project1/</link>
+      <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
       
-      <guid>https://d0sl.github.io/npo/blog/economics-meter/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <guid>https://d0sl.github.io/npo/project/project1/</guid>
+      <description>Apollo For Baximco Inc. Australia Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
-      <title>Money and Money</title>
-      <link>https://d0sl.github.io/npo/blog/money-and-money/</link>
-      <pubDate>Mon, 24 Sep 2018 11:10:46 +0600</pubDate>
+      <title>Обработка тендерных заявок</title>
+      <link>https://d0sl.github.io/npo/project/project2/</link>
+      <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
       
-      <guid>https://d0sl.github.io/npo/blog/money-and-money/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Finance My Business</title>
-      <link>https://d0sl.github.io/npo/blog/finance-my-business/</link>
-      <pubDate>Mon, 24 Sep 2018 11:10:07 +0600</pubDate>
-      
-      <guid>https://d0sl.github.io/npo/blog/finance-my-business/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <guid>https://d0sl.github.io/npo/project/project2/</guid>
+      <description>Apollo For Baximco Inc. Australia Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
@@ -243,6 +216,51 @@
       
       <guid>https://d0sl.github.io/npo/blog/new-hugo-post/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Какую проблему мы решаем</title>
+      <link>https://d0sl.github.io/npo/posts/our_approach/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://d0sl.github.io/npo/posts/our_approach/</guid>
+      <description>Венчурные инвестиции в наукоемкие проекты и компании (deep tech) остаются одними из наиболее популярных инструментов на Американском и Европейском рынках.</description>
+    </item>
+    
+    <item>
+      <title>МЕДИЦИНА</title>
+      <link>https://d0sl.github.io/npo/service/market-strategy1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://d0sl.github.io/npo/service/market-strategy1/</guid>
+      <description>Экспертные системы диагностики заболеваний, помощник врача (second opinion USA), дистанционная диагностика.</description>
+    </item>
+    
+    <item>
+      <title>Поиск информации в открытых источниках</title>
+      <link>https://d0sl.github.io/npo/project/project4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://d0sl.github.io/npo/project/project4/</guid>
+      <description>Apollo For Baximco Inc. Australia Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Страница в разработке</title>
+      <link>https://d0sl.github.io/npo/posts/elaboration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://d0sl.github.io/npo/posts/elaboration/</guid>
+      <description>Но из преимуществ deep tech проистекают и сложности для инвесторов и производства Инвесторы.</description>
+    </item>
+    
+    <item>
+      <title>Цифровая железная дорога</title>
+      <link>https://d0sl.github.io/npo/project/project3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://d0sl.github.io/npo/project/project3/</guid>
+      <description>Apollo For Baximco Inc. Australia Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
   </channel>

@@ -3,113 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://d0sl.github.io/npo/team/alisha-mayar/</loc>
-    <lastmod>2018-09-29T14:43:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://d0sl.github.io/npo/fr/team/alisha-mayar/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://d0sl.github.io/npo/team/alisha-mayar/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://d0sl.github.io/npo/</loc>
-    <lastmod>2018-09-29T14:43:10+06:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://d0sl.github.io/npo/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://d0sl.github.io/npo/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://d0sl.github.io/npo/team/joseph-pullin/</loc>
-    <lastmod>2018-09-29T14:42:51+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://d0sl.github.io/npo/fr/team/joseph-pullin/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://d0sl.github.io/npo/team/joseph-pullin/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://d0sl.github.io/npo/team/andrew-givson/</loc>
-    <lastmod>2018-09-29T14:42:31+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://d0sl.github.io/npo/fr/team/andrew-givson/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://d0sl.github.io/npo/team/andrew-givson/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://d0sl.github.io/npo/team/steve-woah/</loc>
-    <lastmod>2018-09-29T14:42:07+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://d0sl.github.io/npo/fr/team/steve-woah/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://d0sl.github.io/npo/team/steve-woah/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://d0sl.github.io/npo/team/alex-cagar/</loc>
-    <lastmod>2018-09-29T14:41:38+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://d0sl.github.io/npo/fr/team/alex-cagar/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://d0sl.github.io/npo/team/alex-cagar/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://d0sl.github.io/npo/team/phillip-wilson/</loc>
-    <lastmod>2018-09-29T12:58:30+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://d0sl.github.io/npo/fr/team/phillip-wilson/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://d0sl.github.io/npo/team/phillip-wilson/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://d0sl.github.io/npo/service/market-strategy/</loc>
+    <loc>https://d0sl.github.io/npo/en/service/market-strategy/</loc>
     <lastmod>2018-09-29T11:54:02+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -118,13 +12,18 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="ru"
                 href="https://d0sl.github.io/npo/service/market-strategy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://d0sl.github.io/npo/en/service/market-strategy/"
                 />
   </url>
   
   <url>
-    <loc>https://d0sl.github.io/npo/service/market-strategy1/</loc>
+    <loc>https://d0sl.github.io/npo/en/service/market-strategy1/</loc>
     <lastmod>2018-09-29T11:54:02+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -133,13 +32,60 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="ru"
                 href="https://d0sl.github.io/npo/service/market-strategy1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://d0sl.github.io/npo/en/service/market-strategy1/"
                 />
   </url>
   
   <url>
-    <loc>https://d0sl.github.io/npo/service/valuable-idea/</loc>
+    <loc>https://d0sl.github.io/npo/en/</loc>
+    <lastmod>2018-09-29T11:54:02+06:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://d0sl.github.io/npo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://d0sl.github.io/npo/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://d0sl.github.io/npo/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://d0sl.github.io/npo/en/service/</loc>
+    <lastmod>2018-09-29T11:54:02+06:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://d0sl.github.io/npo/fr/service/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://d0sl.github.io/npo/service/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://d0sl.github.io/npo/en/service/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://d0sl.github.io/npo/en/service/valuable-idea/</loc>
     <lastmod>2018-09-29T11:51:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -148,28 +94,18 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="ru"
                 href="https://d0sl.github.io/npo/service/valuable-idea/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://d0sl.github.io/npo/service/valuable-idea1/</loc>
-    <lastmod>2018-09-29T11:51:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://d0sl.github.io/npo/fr/service/valuable-idea1/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://d0sl.github.io/npo/service/valuable-idea1/"
+                href="https://d0sl.github.io/npo/en/service/valuable-idea/"
                 />
   </url>
   
   <url>
-    <loc>https://d0sl.github.io/npo/service/business-consulting/</loc>
+    <loc>https://d0sl.github.io/npo/en/service/business-consulting/</loc>
     <lastmod>2018-09-25T15:51:35+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -178,28 +114,18 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="ru"
                 href="https://d0sl.github.io/npo/service/business-consulting/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://d0sl.github.io/npo/service/business-consulting1/</loc>
-    <lastmod>2018-09-25T15:51:35+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://d0sl.github.io/npo/fr/service/business-consulting1/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://d0sl.github.io/npo/service/business-consulting1/"
+                href="https://d0sl.github.io/npo/en/service/business-consulting/"
                 />
   </url>
   
   <url>
-    <loc>https://d0sl.github.io/npo/project/project1/</loc>
+    <loc>https://d0sl.github.io/npo/en/project/project1/</loc>
     <lastmod>2018-09-24T14:48:03+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -208,13 +134,18 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="ru"
                 href="https://d0sl.github.io/npo/project/project1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://d0sl.github.io/npo/en/project/project1/"
                 />
   </url>
   
   <url>
-    <loc>https://d0sl.github.io/npo/project/project2/</loc>
+    <loc>https://d0sl.github.io/npo/en/project/project2/</loc>
     <lastmod>2018-09-24T14:48:03+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -223,13 +154,18 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="ru"
                 href="https://d0sl.github.io/npo/project/project2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://d0sl.github.io/npo/en/project/project2/"
                 />
   </url>
   
   <url>
-    <loc>https://d0sl.github.io/npo/project/project3/</loc>
+    <loc>https://d0sl.github.io/npo/en/project/project3/</loc>
     <lastmod>2018-09-24T14:48:03+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -238,13 +174,18 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="ru"
                 href="https://d0sl.github.io/npo/project/project3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://d0sl.github.io/npo/en/project/project3/"
                 />
   </url>
   
   <url>
-    <loc>https://d0sl.github.io/npo/project/project4/</loc>
+    <loc>https://d0sl.github.io/npo/en/project/project4/</loc>
     <lastmod>2018-09-24T14:48:03+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -253,75 +194,45 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="ru"
                 href="https://d0sl.github.io/npo/project/project4/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://d0sl.github.io/npo/project/project5/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://d0sl.github.io/npo/fr/project/project5/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://d0sl.github.io/npo/project/project5/"
+                href="https://d0sl.github.io/npo/en/project/project4/"
                 />
   </url>
   
   <url>
-    <loc>https://d0sl.github.io/npo/project/project6/</loc>
+    <loc>https://d0sl.github.io/npo/en/project/</loc>
     <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://d0sl.github.io/npo/fr/project/project6/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://d0sl.github.io/npo/project/project6/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://d0sl.github.io/npo/project/project7/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://d0sl.github.io/npo/fr/project/project7/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://d0sl.github.io/npo/project/project7/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://d0sl.github.io/npo/project/project8/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://d0sl.github.io/npo/fr/project/project8/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://d0sl.github.io/npo/project/project8/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://d0sl.github.io/npo/categories/</loc>
-    <lastmod>2018-09-24T11:11:24+06:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://d0sl.github.io/npo/fr/project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://d0sl.github.io/npo/project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://d0sl.github.io/npo/en/project/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://d0sl.github.io/npo/en/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://d0sl.github.io/npo/categories/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -330,93 +241,18 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://d0sl.github.io/npo/categories/"
+                href="https://d0sl.github.io/npo/en/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://d0sl.github.io/npo/categories/consultancy/</loc>
-    <lastmod>2018-09-24T11:11:24+06:00</lastmod>
+    <loc>https://d0sl.github.io/npo/en/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://d0sl.github.io/npo/fr/categories/consultancy/"
+                hreflang="ru"
+                href="https://d0sl.github.io/npo/tags/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://d0sl.github.io/npo/categories/consultancy/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://d0sl.github.io/npo/tags/consultancy/</loc>
-    <lastmod>2018-09-24T11:11:24+06:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://d0sl.github.io/npo/fr/tags/consultancy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://d0sl.github.io/npo/tags/consultancy/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://d0sl.github.io/npo/blog/economics-meter/</loc>
-    <lastmod>2018-09-24T11:11:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://d0sl.github.io/npo/fr/blog/economics-meter/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://d0sl.github.io/npo/blog/economics-meter/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://d0sl.github.io/npo/tags/finance/</loc>
-    <lastmod>2018-09-24T11:11:24+06:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://d0sl.github.io/npo/fr/tags/finance/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://d0sl.github.io/npo/tags/finance/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://d0sl.github.io/npo/tags/marketing/</loc>
-    <lastmod>2018-09-24T11:11:24+06:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://d0sl.github.io/npo/fr/tags/marketing/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://d0sl.github.io/npo/tags/marketing/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://d0sl.github.io/npo/tags/</loc>
-    <lastmod>2018-09-24T11:11:24+06:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -425,347 +261,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://d0sl.github.io/npo/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://d0sl.github.io/npo/tags/business/</loc>
-    <lastmod>2018-09-24T11:10:46+06:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://d0sl.github.io/npo/fr/tags/business/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://d0sl.github.io/npo/tags/business/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://d0sl.github.io/npo/categories/marketing-guidance/</loc>
-    <lastmod>2018-09-24T11:10:46+06:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://d0sl.github.io/npo/fr/categories/marketing-guidance/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://d0sl.github.io/npo/categories/marketing-guidance/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://d0sl.github.io/npo/blog/money-and-money/</loc>
-    <lastmod>2018-09-24T11:10:46+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://d0sl.github.io/npo/fr/blog/money-and-money/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://d0sl.github.io/npo/blog/money-and-money/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://d0sl.github.io/npo/blog/finance-my-business/</loc>
-    <lastmod>2018-09-24T11:10:07+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://d0sl.github.io/npo/fr/blog/finance-my-business/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://d0sl.github.io/npo/blog/finance-my-business/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://d0sl.github.io/npo/tags/market-analysis/</loc>
-    <lastmod>2018-09-24T11:10:07+06:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://d0sl.github.io/npo/fr/tags/market-analysis/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://d0sl.github.io/npo/tags/market-analysis/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://d0sl.github.io/npo/categories/profit-growth/</loc>
-    <lastmod>2018-09-24T11:10:07+06:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://d0sl.github.io/npo/fr/categories/profit-growth/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://d0sl.github.io/npo/categories/profit-growth/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://d0sl.github.io/npo/tags/revenue/</loc>
-    <lastmod>2018-09-24T11:10:07+06:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://d0sl.github.io/npo/fr/tags/revenue/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://d0sl.github.io/npo/tags/revenue/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://d0sl.github.io/npo/tags/advice/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://d0sl.github.io/npo/fr/tags/advice/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://d0sl.github.io/npo/tags/advice/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://d0sl.github.io/npo/blog/business-magnate/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://d0sl.github.io/npo/fr/blog/business-magnate/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://d0sl.github.io/npo/blog/business-magnate/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://d0sl.github.io/npo/categories/business-news/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://d0sl.github.io/npo/fr/categories/business-news/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://d0sl.github.io/npo/categories/business-news/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://d0sl.github.io/npo/categories/company-news/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://d0sl.github.io/npo/fr/categories/company-news/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://d0sl.github.io/npo/categories/company-news/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://d0sl.github.io/npo/blog/cool-the-audits/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://d0sl.github.io/npo/fr/blog/cool-the-audits/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://d0sl.github.io/npo/blog/cool-the-audits/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://d0sl.github.io/npo/tags/fitness/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://d0sl.github.io/npo/fr/tags/fitness/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://d0sl.github.io/npo/tags/fitness/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://d0sl.github.io/npo/categories/investment/</loc>
-    <lastmod>2018-09-23T11:35:34+06:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://d0sl.github.io/npo/fr/categories/investment/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://d0sl.github.io/npo/categories/investment/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://d0sl.github.io/npo/blog/new-hugo-post/</loc>
-    <lastmod>2018-09-23T11:35:34+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://d0sl.github.io/npo/fr/blog/new-hugo-post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://d0sl.github.io/npo/blog/new-hugo-post/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://d0sl.github.io/npo/about/</loc>
-    <lastmod>2018-07-12T18:19:33+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://d0sl.github.io/npo/fr/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://d0sl.github.io/npo/about/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://d0sl.github.io/npo/blog/</loc>
-    <lastmod>2018-07-12T18:19:33+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://d0sl.github.io/npo/fr/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://d0sl.github.io/npo/blog/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://d0sl.github.io/npo/contact/</loc>
-    <lastmod>2018-07-12T18:19:33+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://d0sl.github.io/npo/fr/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://d0sl.github.io/npo/contact/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://d0sl.github.io/npo/project/</loc>
-    <lastmod>2018-07-12T18:19:33+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://d0sl.github.io/npo/fr/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://d0sl.github.io/npo/project/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://d0sl.github.io/npo/team/</loc>
-    <lastmod>2018-07-12T18:19:33+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://d0sl.github.io/npo/fr/team/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://d0sl.github.io/npo/team/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://d0sl.github.io/npo/pricing/</loc>
-    <lastmod>2018-07-12T18:19:33+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://d0sl.github.io/npo/fr/pricing/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://d0sl.github.io/npo/pricing/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://d0sl.github.io/npo/service/</loc>
-    <lastmod>2018-07-12T18:19:33+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://d0sl.github.io/npo/fr/service/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://d0sl.github.io/npo/service/"
+                href="https://d0sl.github.io/npo/en/tags/"
                 />
   </url>
   

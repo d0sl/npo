@@ -5,37 +5,19 @@
     <link>https://d0sl.github.io/npo/service/</link>
     <description>Recent content in Service on Semant.org</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>ru-RU</language>
     <lastBuildDate>Thu, 12 Jul 2018 18:19:33 +0600</lastBuildDate>
     
 	<atom:link href="https://d0sl.github.io/npo/service/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Market Strategy</title>
+      <title>ФИНТЕХ, ТЕЛЕКОМ</title>
       <link>https://d0sl.github.io/npo/service/market-strategy/</link>
       <pubDate>Sat, 29 Sep 2018 11:54:02 +0600</pubDate>
       
       <guid>https://d0sl.github.io/npo/service/market-strategy/</guid>
-      <description>Marketing Oriented To The Targated Customers Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Market Strategy</title>
-      <link>https://d0sl.github.io/npo/service/market-strategy1/</link>
-      <pubDate>Sat, 29 Sep 2018 11:54:02 +0600</pubDate>
-      
-      <guid>https://d0sl.github.io/npo/service/market-strategy1/</guid>
-      <description>Marketing Oriented To The Targated Customers Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Valuable Idea</title>
-      <link>https://d0sl.github.io/npo/service/valuable-idea/</link>
-      <pubDate>Sat, 29 Sep 2018 11:51:17 +0600</pubDate>
-      
-      <guid>https://d0sl.github.io/npo/service/valuable-idea/</guid>
-      <description>Marketing Oriented To The Targated Customers Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <description>Управление платежами, управление услугами, обработка фрода, маршрутизация, рекомендации, биржевой прогноз.</description>
     </item>
     
     <item>
@@ -45,6 +27,15 @@
       
       <guid>https://d0sl.github.io/npo/service/valuable-idea1/</guid>
       <description>Marketing Oriented To The Targated Customers Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>ИСКУССТВЕННЫЙ ИНТЕЛЛЕКТ</title>
+      <link>https://d0sl.github.io/npo/service/valuable-idea/</link>
+      <pubDate>Sat, 29 Sep 2018 11:51:17 +0600</pubDate>
+      
+      <guid>https://d0sl.github.io/npo/service/valuable-idea/</guid>
+      <description>Робототехника, аниматы, роевые задачи, автоматическая обработка текстов, умные контракты, рекомендательные системы, интернет вещей.</description>
     </item>
     
     <item>
@@ -63,6 +54,15 @@
       
       <guid>https://d0sl.github.io/npo/service/business-consulting1/</guid>
       <description>Marketing Oriented To The Targated Customers Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>МЕДИЦИНА</title>
+      <link>https://d0sl.github.io/npo/service/market-strategy1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://d0sl.github.io/npo/service/market-strategy1/</guid>
+      <description>Экспертные системы диагностики заболеваний, помощник врача (second opinion USA), дистанционная диагностика.</description>
     </item>
     
   </channel>
