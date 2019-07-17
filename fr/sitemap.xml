@@ -729,6 +729,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="en"
+                href="https://d0sl.github.io/npo/en/about/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="https://d0sl.github.io/npo/fr/about/"
                 />

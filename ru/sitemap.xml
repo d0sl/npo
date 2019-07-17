@@ -3,6 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://d0sl.github.io/npo/about/</loc>
+    <lastmod>2019-07-08T18:19:33+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://d0sl.github.io/npo/en/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://d0sl.github.io/npo/fr/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://d0sl.github.io/npo/about/"
+                />
+  </url>
+  
+  <url>
     <loc>https://d0sl.github.io/npo/categories/</loc>
     <lastmod>2019-07-05T11:11:24+06:00</lastmod>
     <priority>0</priority>
@@ -24,22 +44,6 @@
   </url>
   
   <url>
-    <loc>https://d0sl.github.io/npo/categories/consultancy/</loc>
-    <lastmod>2019-07-05T11:11:24+06:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://d0sl.github.io/npo/fr/categories/consultancy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://d0sl.github.io/npo/categories/consultancy/"
-                />
-  </url>
-  
-  <url>
     <loc>https://d0sl.github.io/npo/tags/consultancy/</loc>
     <lastmod>2019-07-05T11:11:24+06:00</lastmod>
     <priority>0</priority>
@@ -52,6 +56,22 @@
                 rel="alternate"
                 hreflang="ru"
                 href="https://d0sl.github.io/npo/tags/consultancy/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://d0sl.github.io/npo/categories/consultancy/</loc>
+    <lastmod>2019-07-05T11:11:24+06:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://d0sl.github.io/npo/fr/categories/consultancy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://d0sl.github.io/npo/categories/consultancy/"
                 />
   </url>
   
@@ -88,27 +108,6 @@
   </url>
   
   <url>
-    <loc>https://d0sl.github.io/npo/</loc>
-    <lastmod>2019-07-05T11:11:24+06:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://d0sl.github.io/npo/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://d0sl.github.io/npo/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://d0sl.github.io/npo/"
-                />
-  </url>
-  
-  <url>
     <loc>https://d0sl.github.io/npo/tags/</loc>
     <lastmod>2019-07-05T11:11:24+06:00</lastmod>
     <priority>0</priority>
@@ -126,6 +125,27 @@
                 rel="alternate"
                 hreflang="ru"
                 href="https://d0sl.github.io/npo/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://d0sl.github.io/npo/</loc>
+    <lastmod>2019-07-05T11:11:24+06:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://d0sl.github.io/npo/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://d0sl.github.io/npo/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://d0sl.github.io/npo/"
                 />
   </url>
   
@@ -656,21 +676,6 @@
                 rel="alternate"
                 hreflang="ru"
                 href="https://d0sl.github.io/npo/blog/new-hugo-post/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://d0sl.github.io/npo/about/</loc>
-    <lastmod>2018-07-12T18:19:33+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://d0sl.github.io/npo/fr/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://d0sl.github.io/npo/about/"
                 />
   </url>
   
