@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mobile networks on ai-cluster.ru</title>
+    <link>https://d0sl.github.io/npo/tags/mobile-networks/</link>
+    <description>Recent content in Mobile networks on ai-cluster.ru</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-RU</language>
+    <lastBuildDate>Wed, 24 Jul 2019 11:35:34 +0600</lastBuildDate>
+    
+	<atom:link href="https://d0sl.github.io/npo/tags/mobile-networks/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Methods for identifying payment plans and services by mobile operators</title>
+      <link>https://d0sl.github.io/npo/blog/palchunov-4-post/</link>
+      <pubDate>Wed, 24 Jul 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://d0sl.github.io/npo/blog/palchunov-4-post/</guid>
+      <description>The paper is devoted to methods for identifying payment plans and services by mobile operators which are the best for the given subscribers.</description>
+    </item>
+    
+    <item>
+      <title>Формализация предметной области на основе теоретико-модельного подхода</title>
+      <link>https://d0sl.github.io/npo/blog/palchunov-3-post/</link>
+      <pubDate>Wed, 24 Jul 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://d0sl.github.io/npo/blog/palchunov-3-post/</guid>
+      <description>Статья посвящена разработке методов порождения знаний о том, какие виды тарифов и услуг мобильного оператора могут быть полезными для данного абонента мобильной сети.</description>
+    </item>
+    
+  </channel>
+</rss>

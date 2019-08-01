@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Risk Management on ai-cluster.ru</title>
+    <link>https://d0sl.github.io/npo/tags/risk-management/</link>
+    <description>Recent content in Risk Management on ai-cluster.ru</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-RU</language>
+    <lastBuildDate>Wed, 24 Jul 2019 11:35:34 +0600</lastBuildDate>
+    
+	<atom:link href="https://d0sl.github.io/npo/tags/risk-management/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Управление рисками</title>
+      <link>https://d0sl.github.io/npo/blog/palchunov-2-post/</link>
+      <pubDate>Wed, 24 Jul 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://d0sl.github.io/npo/blog/palchunov-2-post/</guid>
+      <description>Статья посвящена методам разработки онтологий и онтологических моделей предметных областей в медицине.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Платформа ESDP on ai-cluster.ru</title>
+    <link>https://d0sl.github.io/npo/categories/%D0%BF%D0%BB%D0%B0%D1%82%D1%84%D0%BE%D1%80%D0%BC%D0%B0-esdp/</link>
+    <description>Recent content in Платформа ESDP on ai-cluster.ru</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-RU</language>
+    <lastBuildDate>Wed, 31 Jul 2019 11:35:34 +0600</lastBuildDate>
+    
+	<atom:link href="https://d0sl.github.io/npo/categories/%D0%BF%D0%BB%D0%B0%D1%82%D1%84%D0%BE%D1%80%D0%BC%D0%B0-esdp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>для автоматизации принятия решений</title>
+      <link>https://d0sl.github.io/npo/blog/pres-4-post/</link>
+      <pubDate>Wed, 31 Jul 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://d0sl.github.io/npo/blog/pres-4-post/</guid>
+      <description>В основе лежит математическая теория «Семантического моделирования». Замена ручного труда станками в XVIII веке привела к промышленной революции.</description>
+    </item>
+    
+    <item>
+      <title>на основе семантических правил</title>
+      <link>https://d0sl.github.io/npo/blog/pres-5-post/</link>
+      <pubDate>Wed, 31 Jul 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://d0sl.github.io/npo/blog/pres-5-post/</guid>
+      <description>Предлагается разработать и внедрить в Авиакомпании систему управления предложениями (offer management) на основе семантических правил и Eyeline Semantic Definition Platform (ESDP).</description>
+    </item>
+    
+    <item>
+      <title>НА БАЗЕ ПЛАТФОРМЫ EYELINE SEMANTIC DEFINITION PLATFORM</title>
+      <link>https://d0sl.github.io/npo/blog/expasoft-9-post/</link>
+      <pubDate>Tue, 30 Jul 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://d0sl.github.io/npo/blog/expasoft-9-post/</guid>
+      <description>ТЕХНОЛОГИЧЕСКИЕ ВОЗМОЖНОСТИ ПРОГРАММНОГО КОМПЛЕКСА «АВТОМАТИЗАЦИЯ АНАЛИЗА ГЕОЛОГИЧЕСКИХ ДАННЫХ»
+  Методологическую основу процесса проектирования и последующей эксплуатации Программного комплекса «Автоматизация анализа геологических данных» составляет концепция семантического моделирования.</description>
+    </item>
+    
+    <item>
+      <title>Методичка для разработчиков</title>
+      <link>https://d0sl.github.io/npo/blog/expasoft-6-post/</link>
+      <pubDate>Mon, 29 Jul 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://d0sl.github.io/npo/blog/expasoft-6-post/</guid>
+      <description>Около 10 лет тому назад Группа компаний Eyeline создала, развивает и успешно эксплуатирует платформу ESDP, первоначально предназначенную для применения в телекоммуникационной отрасли.</description>
+    </item>
+    
+    <item>
+      <title>ОБЛАСТИ ПРИМЕНЕНИЯ И СЕМАНТИЧЕСКИЕ DSL</title>
+      <link>https://d0sl.github.io/npo/blog/expasoft-3-post/</link>
+      <pubDate>Thu, 25 Jul 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://d0sl.github.io/npo/blog/expasoft-3-post/</guid>
+      <description>Платформа Eyeline Semantic Definition Platform (ESDP) базируется на языке семантических спецификаций Delta0 Semantic Language (см http://d0sl.</description>
+    </item>
+    
+  </channel>
+</rss>

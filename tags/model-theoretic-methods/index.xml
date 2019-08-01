@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Model-theoretic methods on ai-cluster.ru</title>
+    <link>https://d0sl.github.io/npo/tags/model-theoretic-methods/</link>
+    <description>Recent content in Model-theoretic methods on ai-cluster.ru</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-RU</language>
+    <lastBuildDate>Wed, 24 Jul 2019 11:35:34 +0600</lastBuildDate>
+    
+	<atom:link href="https://d0sl.github.io/npo/tags/model-theoretic-methods/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> Семантический подход к нечеткой логике</title>
+      <link>https://d0sl.github.io/npo/blog/palchunov-5-post/</link>
+      <pubDate>Wed, 24 Jul 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://d0sl.github.io/npo/blog/palchunov-5-post/</guid>
+      <description>В работе исследуется проблема пополнения частичной информации о нечетких значениях истинности формул первого порядка на алгебраической системе.</description>
+    </item>
+    
+    <item>
+      <title>Methods for identifying payment plans and services by mobile operators</title>
+      <link>https://d0sl.github.io/npo/blog/palchunov-4-post/</link>
+      <pubDate>Wed, 24 Jul 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://d0sl.github.io/npo/blog/palchunov-4-post/</guid>
+      <description>The paper is devoted to methods for identifying payment plans and services by mobile operators which are the best for the given subscribers.</description>
+    </item>
+    
+    <item>
+      <title>Для построения онтологических моделей</title>
+      <link>https://d0sl.github.io/npo/blog/palchunov-7-post/</link>
+      <pubDate>Wed, 24 Jul 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://d0sl.github.io/npo/blog/palchunov-7-post/</guid>
+      <description>Правила соответствия между уровнями представления понятий Поиск оптимальных тарифов и услуг мобильной связи</description>
+    </item>
+    
+    <item>
+      <title>ИЗВЛЕЧЁННЫХ ИЗ МЕДИЦИНСКИХ ДОКУМЕНТОВ</title>
+      <link>https://d0sl.github.io/npo/blog/palchunov-8-post/</link>
+      <pubDate>Wed, 24 Jul 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://d0sl.github.io/npo/blog/palchunov-8-post/</guid>
+      <description>Статья посвящена методам представления знаний, интеграции знаний, извлечённых из разных источников, и порождения новых знаний.</description>
+    </item>
+    
+    <item>
+      <title>Современные подходы к оценке рисков неблагоприятных событий</title>
+      <link>https://d0sl.github.io/npo/blog/palchunov-6-post/</link>
+      <pubDate>Wed, 24 Jul 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://d0sl.github.io/npo/blog/palchunov-6-post/</guid>
+      <description>В настоящей статье рассмотрены современные подходы к оценке рисков неблагоприятных событий, необходимость в которых возникает при обеспечении информационной безопасности корпоративной информационной системы.</description>
+    </item>
+    
+    <item>
+      <title>Формализация предметной области на основе теоретико-модельного подхода</title>
+      <link>https://d0sl.github.io/npo/blog/palchunov-3-post/</link>
+      <pubDate>Wed, 24 Jul 2019 11:35:34 +0600</pubDate>
+      
+      <guid>https://d0sl.github.io/npo/blog/palchunov-3-post/</guid>
+      <description>Статья посвящена разработке методов порождения знаний о том, какие виды тарифов и услуг мобильного оператора могут быть полезными для данного абонента мобильной сети.</description>
+    </item>
+    
+  </channel>
+</rss>
